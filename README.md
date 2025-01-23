@@ -1,32 +1,27 @@
-# Mintlify Starter Kit
+# **AmariBot Documentation 🧸**
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Welcome to the official documentation for **AmariBot**, a powerful and feature-rich Discord bot designed to enhance your server's experience. Whether you're managing a large server or just having fun with your community, AmariBot provides a wide range of tools for moderation, user engagement, and fun activities.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+## **🍨 Table of Contents**
+- [🧸 Introduction to AmariBot](#introduction-to-amaribot)
+- [🍮 Key Features](#key-features)
+  - [🍩 Leveling System](#leveling-system)
+  - [🍦 Moderation Tools](#moderation-tools)
+  - [🍪 Fun Commands](#fun-commands)
+  - [🧋 Customization](#customization)
+- [🧺 Installation & Setup](#installation-setup)
+- [🍦 Commands Overview](#commands-overview)
+  - [🍩 ! Commands](#-commands)
+  - [🏹 Slash Commands](#slash-commands)
+- [🕰️ Advanced Features](#advanced-features)
+- [🧸 Contribute](#contribute)
+- [🌼 Troubleshooting & FAQ](#troubleshooting-faq)
+- [🍦 Community & Support](#community-support)
 
-### Development
+---
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+## **🧸 Introduction to AmariBot**
 
-```
-npm i -g mintlify
-```
+**AmariBot** is an advanced, customizable Discord bot that provides essential tools for server management, user engagement, and fun activities. Whether you are moderating your community or offering interactive entertainment, **AmariBot** has something for everyone.
 
-Run the following command at the root of your documentation (where mint.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+---
